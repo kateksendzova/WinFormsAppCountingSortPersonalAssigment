@@ -1,0 +1,16 @@
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.exe
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.deps.json
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.runtimeconfig.json
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.pdb
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.Form1.resources
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.csproj.GenerateResource.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.AssemblyInfoInputs.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.AssemblyInfo.cs
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.csproj.CoreCompileInputs.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\refint\WinFormsAppCountingSortPersonalAssigment.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.pdb
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppCountingSortPersonalAssigment.genruntimeconfig.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSortPersonalAssigment\obj\Debug\net8.0-windows\ref\WinFormsAppCountingSortPersonalAssigment.dll
